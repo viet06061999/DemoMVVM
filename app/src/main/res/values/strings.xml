@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MVVM</string>
+    <string name="hint_email">Nhập vào email</string>
+    <string name="hint_password">Nhập vào password</string>
+    <string name="title_sing_in">Đăng nhập</string>
+    <string name="msg_email_invalid">Email không hợp lệ</string>
+    <string name="msg_weak_password">Mật khẩu quá ngắn</string>
+    <string name="space"> </string>
+    <string name="msg_login_fail">Đăng nhập thất bại</string>
 </resources>
